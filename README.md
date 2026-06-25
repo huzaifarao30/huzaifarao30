@@ -27,8 +27,7 @@ class HuzaifaSikandarRao:
     degree       = "BSc Software Engineering, Semester 5"
     
     currently    = [
-        "Full-Time Intern @ App Aura",
-        "Remote Web Intern (Incoming) @ Quantum Logics",
+        "Full Time Intern @ App Aura",
         "Mastering Python · Django · REST APIs",
         "Leveling up: React · Node.js · MongoDB",
     ]
@@ -92,10 +91,10 @@ class HuzaifaSikandarRao:
         <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
       </p>
       <p align="center">
-        Full-stack e-commerce storefront with real-time database ops, auth, and edge deployment. A complete shopping experience — from product catalogue to checkout.
+        Full stack e commerce storefront with real time database ops, auth, and edge deployment. A complete shopping experience, from product catalogue to checkout.
       </p>
       <p align="center">
-        <code>Full-Stack</code> · <code>Supabase</code> · <code>Vercel</code> · <code>E-Commerce</code>
+        <code>Full Stack</code> · <code>Supabase</code> · <code>Vercel</code> · <code>E Commerce</code>
       </p>
     </td>
     <td width="33%" valign="top">
@@ -104,7 +103,7 @@ class HuzaifaSikandarRao:
         <img src="https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
       </p>
       <p align="center">
-        A desktop-grade esports management suite engineered with Python and PyQt5. Handles team rosters, tournament brackets, and match scheduling — all in a slick native UI.
+        A desktop grade esports management suite engineered with Python and PyQt5. Handles team rosters, tournament brackets, and match scheduling, all in a slick native UI.
       </p>
       <p align="center">
         <code>Python</code> · <code>PyQt5</code> · <code>Desktop App</code> · <code>GUI</code>
