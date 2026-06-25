@@ -86,18 +86,6 @@ class HuzaifaSikandarRao:
 <table align="center" width="100%">
   <tr>
     <td width="33%" valign="top">
-      <h3 align="center">🤖 Automated CV Maker</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      </p>
-      <p align="center">
-        A Python-powered tool that auto-generates polished, structured CVs on demand. Built to eliminate the friction of manual formatting — define your data, get a professional document.
-      </p>
-      <p align="center">
-        <code>Python</code> · <code>Automation</code> · <code>PDF Generation</code>
-      </p>
-    </td>
-    <td width="33%" valign="top">
       <h3 align="center">🧵 Stitch & Twine</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
