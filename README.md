@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:ffd6e8,30:ffc9de,60:d6c9ff,100:c9e4ff&height=220&section=header&text=Huzaifa%20Sikandar%20Rao&fontSize=40&fontColor=6b4c7a&fontAlignY=38&desc=🌸%20Backend%20Developer%20%7C%20Django%20%26%20Python%20%7C%20Full%20Stack%20Learner%20🌸&descAlignY=58&descSize=15&descColor=8a6da3&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:1a0000,50:2d0a4e,75:0a1f3d,100:000000&height=220&section=header&text=HUZAIFA%20SIKANDAR%20RAO&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=⚔️%20Backend%20Developer%20%7C%20Django%20Architect%20%7C%20Full%20Stack%20Engineer%20⚔️&descAlignY=58&descSize=15&descColor=ff2e4d&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1200&color=B28DFF&center=true&vCenter=true&width=650&lines=🌷+Python+%26+Django+Backend+Developer;💫+Full+Stack+Engineer+in+Progress;🎀+AI-Assisted+Builder;🍰+Clean+Code%2C+Sweet+Ship" />
+<img src="https://readme-typing-svg.demolab.com?font=Bangers&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=⚔️+PYTHON+%26+DJANGO+BACKEND+DEV+⚔️;🔥+FULL+STACK+ENGINEER+IN+PROGRESS+🔥;🩸+BOUND+TO+CLEAN+CODE+%26+SHARP+SYSTEMS+🩸;🌙+BUILT+DIFFERENT%2C+SHIPS+FASTER+🌙" />
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=huzaifarao30&label=PROFILE+VIEWS&color=ffb6c1&style=for-the-badge)
-![](https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-c9e4ff?style=for-the-badge&labelColor=ffd6e8)
-![](https://img.shields.io/badge/CURRENTLY-LEARNING%20%26%20BUILDING-d6c9ff?style=for-the-badge&labelColor=ffd6e8)
+![](https://komarev.com/ghpvc/?username=huzaifarao30&label=PROFILE+VIEWS&color=ff2e4d&style=for-the-badge&labelColor=000000)
+![](https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-00d4ff?style=for-the-badge&labelColor=000000)
+![](https://img.shields.io/badge/ARC-CURRENTLY%20ACTIVE-7000ff?style=for-the-badge&labelColor=000000)
 
 </div>
 
@@ -16,73 +16,79 @@
 
 <div align="center">
 
-## 🌸 About Me 🌸
+## ⚔️ THE BOND ⚔️
+<sub>every dev has a covenant with their craft — this is mine</sub>
 
 </div>
 
 ```python
-class HuzaifaSikandarRao:
-    origin      = "Lahore, Pakistan 🇵🇰"
-    university  = "COMSATS University Islamabad — Lahore Campus"
-    degree      = "BSc Software Engineering · Semester 5"
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#   HUZAIFA SIKANDAR RAO  ·  bound to the backend
+#   Pact: Sealed  ·  Arc: In Progress
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-    currently   = [
-        "Full-Time Intern @ App Aura 🌷",
-        "Learning Python · Django · REST APIs",
-        "Exploring React · Node.js · MongoDB",
+class HuzaifaSikandarRao:
+    origin       = "Lahore, Pakistan 🇵🇰"
+    faction      = "COMSATS University Islamabad — Lahore Campus"
+    rank         = "BSc Software Engineering · Semester 5"
+
+    current_arc  = [
+        "Full Time Intern @ App Aura  →  earning the scars",
+        "Mastering Python · Django · REST APIs",
+        "Leveling up: React · Node.js · MongoDB",
     ]
 
-    past        = ["Backend Engineering Intern @ Zweidevs ❄️"]
+    previous_arc = ["Backend Engineering Intern @ Zweidevs  (Winter Arc ✓)"]
 
-    favorites   = {
-        "Framework"     : "Django REST Framework",
-        "Focus area"    : "System Design & Backend Architecture",
-        "Fun fact"      : "Loves 8086 Assembly & CPU internals",
-        "Also enjoys"   : "MERN Stack & Modern Web",
+    soul_bond    = {
+        "Weapon"      : "Django REST Framework",
+        "Domain"      : "System Design & Backend Architecture",
+        "Old Magic"   : "8086 Assembly & CPU Internals",
+        "Second Form" : "MERN Stack & Modern Web",
     }
 
-    tools_i_use = ["Claude", "Gemini", "ChatGPT"]
-    mood        = "focused, curious, caffeinated ☕"
+    allies       = ["Claude", "Gemini", "ChatGPT"]  # summoned when needed
+    resolve      = "UNBREAKABLE"
 ```
 
 ---
 
 <div align="center">
 
-## 🧸 Skills & Tools 🧸
+## 🗡️ ARSENAL 🗡️
 
-**💗 Core Languages**
+**⚡ Core Languages**
 
-![Python](https://img.shields.io/badge/Python-ffd6e8?style=for-the-badge&logo=python&logoColor=6b4c7a)
-![JavaScript](https://img.shields.io/badge/JavaScript-fff3b0?style=for-the-badge&logo=javascript&logoColor=6b4c7a)
-![TypeScript](https://img.shields.io/badge/TypeScript-c9e4ff?style=for-the-badge&logo=typescript&logoColor=6b4c7a)
-![C++](https://img.shields.io/badge/C++-d6c9ff?style=for-the-badge&logo=cplusplus&logoColor=6b4c7a)
-![Bash](https://img.shields.io/badge/Bash-e0e0e0?style=for-the-badge&logo=gnubash&logoColor=6b4c7a)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00d4ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ffd700)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00d4ff)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=7000ff)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=ff2e4d)
 
-**🌷 Backend & Database**
+**🩸 Backend & Database**
 
-![Django](https://img.shields.io/badge/Django-d6c9ff?style=for-the-badge&logo=django&logoColor=6b4c7a)
-![Node.js](https://img.shields.io/badge/Node.js-c8f5d4?style=for-the-badge&logo=nodedotjs&logoColor=6b4c7a)
-![Express](https://img.shields.io/badge/Express-e0e0e0?style=for-the-badge&logo=express&logoColor=6b4c7a)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-c9e4ff?style=for-the-badge&logo=postgresql&logoColor=6b4c7a)
-![MongoDB](https://img.shields.io/badge/MongoDB-c8f5d4?style=for-the-badge&logo=mongodb&logoColor=6b4c7a)
-![Supabase](https://img.shields.io/badge/Supabase-c8f5d4?style=for-the-badge&logo=supabase&logoColor=6b4c7a)
+![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=7000ff)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=22c55e)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00d4ff)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=22c55e)
+![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=22c55e)
 
-**🎀 Frontend & UI**
+**🌙 Frontend & UI**
 
-![React](https://img.shields.io/badge/React-c9e4ff?style=for-the-badge&logo=react&logoColor=6b4c7a)
-![Tailwind](https://img.shields.io/badge/Tailwind-d6c9ff?style=for-the-badge&logo=tailwindcss&logoColor=6b4c7a)
-![Vite](https://img.shields.io/badge/Vite-ffd6e8?style=for-the-badge&logo=vite&logoColor=6b4c7a)
-![Figma](https://img.shields.io/badge/Figma-ffc9de?style=for-the-badge&logo=figma&logoColor=6b4c7a)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00d4ff)
+![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=7000ff)
+![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=ff2e4d)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=ff2e4d)
 
-**☁️ Cloud & Infra**
+**☠️ Cloud & Infra**
 
-![GCP](https://img.shields.io/badge/GCP-ffd6e8?style=for-the-badge&logo=googlecloud&logoColor=6b4c7a)
-![Vercel](https://img.shields.io/badge/Vercel-e0e0e0?style=for-the-badge&logo=vercel&logoColor=6b4c7a)
-![Git](https://img.shields.io/badge/Git-ffc9de?style=for-the-badge&logo=git&logoColor=6b4c7a)
-![GitHub](https://img.shields.io/badge/GitHub-d6c9ff?style=for-the-badge&logo=github&logoColor=6b4c7a)
-![Postman](https://img.shields.io/badge/Postman-ffd6e8?style=for-the-badge&logo=postman&logoColor=6b4c7a)
-![Linux](https://img.shields.io/badge/Linux-fff3b0?style=for-the-badge&logo=linux&logoColor=6b4c7a)
+![GCP](https://img.shields.io/badge/GCP-000000?style=for-the-badge&logo=googlecloud&logoColor=ff2e4d)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=ffffff)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ff4400)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=7000ff)
+![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=ff6b00)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=ffd700)
 
 </div>
 
@@ -90,7 +96,7 @@ class HuzaifaSikandarRao:
 
 <div align="center">
 
-## 🍰 Featured Projects 🍰
+## 📜 SEALED CONTRACTS 📜
 
 </div>
 
@@ -98,26 +104,26 @@ class HuzaifaSikandarRao:
 <tr>
 <td width="50%" valign="top">
 
-### 🧵 Stitch & Twine
+### 🩸 Stitch & Twine
 
-![](https://img.shields.io/badge/STATUS-COMPLETE-c8f5d4?style=flat-square)
-![](https://img.shields.io/badge/Supabase-c8f5d4?style=flat-square&logo=supabase&logoColor=6b4c7a)
-![](https://img.shields.io/badge/Vercel-e0e0e0?style=flat-square&logo=vercel&logoColor=6b4c7a)
+![](https://img.shields.io/badge/PACT-FULFILLED-22c55e?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=22c55e)
+![](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=ffffff)
 
-A full-stack e-commerce storefront with real-time database operations, authentication, and edge deployment — from product catalogue to checkout.
+Full stack e-commerce storefront with real-time database ops, auth, and edge deployment. A complete shopping experience from product catalogue to checkout.
 
 `Full Stack` · `Supabase` · `Vercel` · `E-Commerce`
 
 </td>
 <td width="50%" valign="top">
 
-### 🎮 Esportify
+### ⚔️ Esportify
 
-![](https://img.shields.io/badge/STATUS-COMPLETE-c8f5d4?style=flat-square)
-![](https://img.shields.io/badge/PyQt5-d6c9ff?style=flat-square&logo=qt&logoColor=6b4c7a)
-![](https://img.shields.io/badge/Python-ffd6e8?style=flat-square&logo=python&logoColor=6b4c7a)
+![](https://img.shields.io/badge/PACT-FULFILLED-22c55e?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/PyQt5-000000?style=flat-square&logo=qt&logoColor=7000ff)
+![](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00d4ff)
 
-A desktop esports management suite built with Python and PyQt5 — handles team rosters, tournament brackets, and match scheduling in a clean native UI.
+Desktop-grade esports management suite with Python and PyQt5. Handles team rosters, tournament brackets, and match scheduling in a slick native UI.
 
 `Python` · `PyQt5` · `Desktop App` · `GUI`
 
@@ -129,15 +135,17 @@ A desktop esports management suite built with Python and PyQt5 — handles team 
 
 <div align="center">
 
-## 🌈 How I Work 🌈
+## 🌀 COMBAT FLOW 🌀
 
 ```
-🔍 Understand  ➤➤  🧩 Design  ➤➤  🛠️ Build  ➤➤  🚀 Ship
-   the problem       the system     & debug it    with care
+🎯 PERCEIVE  ➤➤  🏗️ ARCHITECT  ➤➤  ⚔️ EXECUTE  ➤➤  🚀 SHIP
+Read the        Design the        Build fast,      Deploy with
+battlefield     system            debug smart      precision
 ```
 
-> *I like solving problems with intent, not just writing code.*
-> *AI-assisted workflow — Claude, Gemini, ChatGPT — for cleaner, faster delivery.*
+> *I don't just write code — I forge a bond with the system I'm building.*
+> *Summoned allies for the fight: Claude, Gemini, ChatGPT.*
+> *More signal, less noise, faster delivery.*
 
 </div>
 
@@ -145,19 +153,19 @@ A desktop esports management suite built with Python and PyQt5 — handles team 
 
 <div align="center">
 
-## 📈 GitHub Stats 📈
+## 📊 POWER LEVEL STATS 📊
 
-<img src="https://github-readme-stats.vercel.app/api?username=huzaifarao30&show_icons=true&theme=default&bg_color=fff5fa&border_color=ffc9de&title_color=b28dff&icon_color=ff9ec4&text_color=6b4c7a&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=huzaifarao30&show_icons=true&theme=github_dark&bg_color=000000&border_color=ff2e4d&title_color=00d4ff&icon_color=7000ff&text_color=c9d1d9&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true" height="180" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifarao30&layout=compact&theme=default&bg_color=fff5fa&border_color=ffc9de&title_color=b28dff&text_color=6b4c7a&hide_border=false" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifarao30&layout=compact&theme=github_dark&bg_color=000000&border_color=ff2e4d&title_color=00d4ff&text_color=c9d1d9&hide_border=false" height="180" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=huzaifarao30&theme=default&background=fff5fa&border=ffc9de&ring=ff9ec4&fire=ffb6c1&currStreakLabel=b28dff&sideLabels=b28dff&dates=8a6da3&hide_border=false" />
+<img src="https://streak-stats.demolab.com?user=huzaifarao30&theme=dark&background=000000&border=ff2e4d&ring=00d4ff&fire=ff4400&currStreakLabel=00d4ff&sideLabels=7000ff&dates=6b7280&hide_border=false" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=huzaifarao30&bg_color=fff5fa&color=b28dff&line=ff9ec4&point=6b4c7a&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=huzaifarao30&bg_color=000000&color=00d4ff&line=ff2e4d&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
@@ -165,20 +173,20 @@ A desktop esports management suite built with Python and PyQt5 — handles team 
 
 <div align="center">
 
-## 💌 Get In Touch 💌
+## 📡 SEND A TRANSMISSION 📡
 
-[![Gmail](https://img.shields.io/badge/Gmail-huzaifasikandarrao%40gmail.com-ffd6e8?style=for-the-badge&logo=gmail&logoColor=6b4c7a)](mailto:huzaifasikandarrao@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-huzaifasikandarrao%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=ff2e4d)](mailto:huzaifasikandarrao@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Huzaifa%20Sikandar%20Rao-c9e4ff?style=for-the-badge&logo=linkedin&logoColor=6b4c7a)](https://www.linkedin.com/in/huzaifa-sikandar-rao-822a103a3/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Huzaifa%20Sikandar%20Rao-000000?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://www.linkedin.com/in/huzaifa-sikandar-rao-822a103a3/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-huzaifarao30-d6c9ff?style=for-the-badge&logo=github&logoColor=6b4c7a)](https://github.com/huzaifarao30)
+[![GitHub](https://img.shields.io/badge/GitHub-huzaifarao30-000000?style=for-the-badge&logo=github&logoColor=7000ff)](https://github.com/huzaifarao30)
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:c9e4ff,50:d6c9ff,100:ffd6e8&height=120&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:2d0a4e,100:000000&height=140&section=footer&animation=fadeIn" />
 
 <div align="center">
-  <sub>🌸 Made with care · Shipped with intent 🌸</sub>
+  <sub>⚔️ Bonds forged in code · The arc never ends ⚔️</sub>
 </div>
