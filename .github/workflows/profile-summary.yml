@@ -2,28 +2,26 @@ name: Generate Profile Stats
 
 on:
   schedule:
-    # Runs once a day at 00:00 UTC — adjust as you like
+    # Runs once a day, roughly around midnight UTC — adjust as you like
     - cron: '0 0 * * *'
   workflow_dispatch:   # lets you trigger it manually from the Actions tab
-  push:
-    branches:
-      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v4
+
       - name: Generate stats cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          github_user: huzaifarao30
-          # Dark theme to match the README
-          theme: github_dark
-          # Which cards to generate — trims the list to just what the README uses
-          card: |
-            grid
-            base
-            activity
+          USERNAME: huzaifarao30
+          BRANCH_NAME: "main"
+          UTC_OFFSET: 5
+          EXCLUDE: ""
+          AUTO_PUSH: true
