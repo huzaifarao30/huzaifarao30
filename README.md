@@ -155,19 +155,19 @@ battlefield     system            debug smart      precision
 
 ## 📊 POWER LEVEL STATS 📊
 
-<img src="https://raw.githubusercontent.com/huzaifarao30/huzaifarao30/output/github-profile-summary-cards/profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/huzaifarao30/huzaifarao30/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" />
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/huzaifarao30/huzaifarao30/output/github-profile-summary-cards/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="45%" />
+<img src="https://raw.githubusercontent.com/huzaifarao30/huzaifarao30/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="45%" />
 &nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/huzaifarao30/huzaifarao30/output/github-profile-summary-cards/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="45%" />
+<img src="https://raw.githubusercontent.com/huzaifarao30/huzaifarao30/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="45%" />
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/huzaifarao30/huzaifarao30/output/github-profile-summary-cards/profile-summary-card-output/github_dark/3-stats.svg" width="45%" />
+<img src="https://raw.githubusercontent.com/huzaifarao30/huzaifarao30/main/profile-summary-card-output/github_dark/3-stats.svg" width="45%" />
 &nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/huzaifarao30/huzaifarao30/output/github-profile-summary-cards/profile-summary-card-output/github_dark/4-productive-time.svg" width="45%" />
+<img src="https://raw.githubusercontent.com/huzaifarao30/huzaifarao30/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="45%" />
 
 </div>
 
