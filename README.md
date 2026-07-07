@@ -155,17 +155,19 @@ battlefield     system            debug smart      precision
 
 ## 📊 POWER LEVEL STATS 📊
 
-<img src="https://github-readme-stats.vercel.app/api?username=huzaifarao30&show_icons=true&theme=github_dark&bg_color=000000&border_color=ff2e4d&title_color=00d4ff&icon_color=7000ff&text_color=c9d1d9&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true" height="180" />
+<img src="https://raw.githubusercontent.com/huzaifarao30/huzaifarao30/output/github-profile-summary-cards/profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/huzaifarao30/huzaifarao30/output/github-profile-summary-cards/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="45%" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifarao30&layout=compact&theme=github_dark&bg_color=000000&border_color=ff2e4d&title_color=00d4ff&text_color=c9d1d9&hide_border=false" height="180" />
+<img src="https://raw.githubusercontent.com/huzaifarao30/huzaifarao30/output/github-profile-summary-cards/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="45%" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=huzaifarao30&theme=dark&background=000000&border=ff2e4d&ring=00d4ff&fire=ff4400&currStreakLabel=00d4ff&sideLabels=7000ff&dates=6b7280&hide_border=false" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=huzaifarao30&bg_color=000000&color=00d4ff&line=ff2e4d&point=ffffff&area=true&hide_border=true" />
+<img src="https://raw.githubusercontent.com/huzaifarao30/huzaifarao30/output/github-profile-summary-cards/profile-summary-card-output/github_dark/3-stats.svg" width="45%" />
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/huzaifarao30/huzaifarao30/output/github-profile-summary-cards/profile-summary-card-output/github_dark/4-productive-time.svg" width="45%" />
 
 </div>
 
